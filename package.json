@@ -16,4 +16,8 @@
     "url": "https://github.com/koopakoop/redesigned-waddle/issues"
   },
   "homepage": "https://github.com/koopakoop/redesigned-waddle#readme"
+  "publishConfig": {
+   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+ }
 }
+
